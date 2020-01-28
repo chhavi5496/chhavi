@@ -14,7 +14,7 @@ public class block
 public static void main(String args[])
 {
 abc a= new abc();
-a.print();
+print();
 }
 static 
 {
